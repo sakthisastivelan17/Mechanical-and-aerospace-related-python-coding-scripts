@@ -26,8 +26,8 @@ for line in file:
 
 file.close()
 
-print("Total Marks:", total)
-print("Average Marks:", average)
+print("Total Marks:", tot)
+print("Average Marks:",tot/count)
 print("Highest Mark:", max(marks_list))
 
 
