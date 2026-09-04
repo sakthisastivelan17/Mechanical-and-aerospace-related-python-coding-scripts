@@ -1,4 +1,12 @@
- # writing the file 
+ Simulates logging and analyzing aircraft engine test data.
+Takes RPM, temperature, and fuel consumption readings for 5 engine tests and writes them to engine_test.txt.
+Reads the file back and calculates the highest, lowest, and average values for each parameter.
+Lets the user search for a specific RPM value in the recorded data.
+Appends a new engine test entry to the file and prints the fully updated report.
+Concepts used: file I/O (open, read, write, append), loops, lists, aggregate calculations.
+                    
+code :
+# writing the file 
 file=open('engine_test.txt','w')
 
 for i in range (1,6):
