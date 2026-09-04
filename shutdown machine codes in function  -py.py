@@ -1,3 +1,10 @@
+A simple machine safety-check system.
+Compares input temperature and pressure against fixed maximum thresholds (max_temp = 80, max_pressure = 150).
+validate() returns 'SAFE TO OPERATE' or 'SHUTDOWN REQUIRED' accordingly.
+Concepts used: functions, conditional logic.
+
+code:
+     
 max_temp=80
 max_pressure=150
 
