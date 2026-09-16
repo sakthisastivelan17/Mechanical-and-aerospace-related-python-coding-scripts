@@ -1,3 +1,6 @@
+# A Python demo showing class methods (@classmethod) using a Jet Engine purchase order tracker for Rolls Royce, Boeing, and Airbus.
+
+
 class JetEngine_purchase:
 
     company1='Rolls Royce'
