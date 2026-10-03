@@ -11,6 +11,8 @@ realistic example.
 | rocket_details(super keyboard).py | Inheritance, super(), constructors | A Components parent class and a Rocket child class that stores and prints Falcon 9 details |
 
 | Aerospace Engine purchase app Using class methods.py | @classmethod, class variables | Tracks jet engine purchase orders for Rolls-Royce, Boeing, and Airbus |
+
+
 | aircraft analysis in file handling-py.py | File I/O (write, read, append), loops, lists | Logs RPM, temperature, and fuel data for 5 engine tests,
   then reports the highest, lowest, and average of each. Also searches for an RPM value and appends a new test |
   
