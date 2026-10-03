@@ -24,7 +24,8 @@ print('AREA:',obj.launch_area)
 print('BOOSTER:',obj.booster)
         
         
-        
+ 
+# A simple Python OOP project showing parent and child classes, constructors, and super() through a Falcon 9 rocket example.
 
         
 
