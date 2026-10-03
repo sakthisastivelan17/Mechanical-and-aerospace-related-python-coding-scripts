@@ -2,7 +2,7 @@
 A collection of beginner Python scripts built around aerospace and mechanical engineering problems. Each script practices one core Python concept through a small, realistic example.
 
 ## Projects
-Script	Concepts	What it does
+
 | rocket_details(super keyboard).py | Inheritance, super(), constructors | A Components parent class and a Rocket child class that stores and prints Falcon 9 details |
 
 | Aerospace Engine purchase app Using class methods.py | @classmethod, class variables | Tracks jet engine purchase orders for Rolls-Royce, Boeing, and Airbus |
