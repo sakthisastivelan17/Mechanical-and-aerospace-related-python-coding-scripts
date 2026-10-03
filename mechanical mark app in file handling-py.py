@@ -1,9 +1,9 @@
-A student marks tracker for core mechanical engineering subjects (Thermodynamics, Strength of Materials, Fluid Mechanics, Manufacturing Technology).
-Writes entered marks to marks_data.txt.
-Reads them back to compute the total, average, and highest mark.
-Concepts used: file I/O, loops, lists.
+# A student marks tracker for core mechanical engineering subjects (Thermodynamics, Strength of Materials, Fluid Mechanics, Manufacturing Technology).
+# Writes entered marks to marks_data.txt.
+# Reads them back to compute the total, average, and highest mark.
+# Concepts used: file I/O, loops, lists.
 
-code:
+# code:
 
 file=open('marks_data.txt','w')
 
