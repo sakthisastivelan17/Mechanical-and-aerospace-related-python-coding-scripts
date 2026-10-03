@@ -1,3 +1,9 @@
+# A simple Python OOP project through a Falcon 9 rocket example.
+
+# concepts involed:
+# showing parent and child classes, constructors, and super()
+
+#code
 class components():
     def __init__(self,engine,booster,material,fuel):
         self.engine=engine
@@ -25,7 +31,7 @@ print('BOOSTER:',obj.booster)
         
         
  
-# A simple Python OOP project showing parent and child classes, constructors, and super() through a Falcon 9 rocket example.
+
 
         
 
