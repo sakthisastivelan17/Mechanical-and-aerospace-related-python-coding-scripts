@@ -1,8 +1,8 @@
-A short script that calculates the Factor of Safety (FoS), a fundamental mechanical design concept.
-c_fos(u, w) computes FoS as ultimate strength ÷ working stress.
-Concepts used: functions, return values.
+# A short script that calculates the Factor of Safety (FoS), a fundamental mechanical design concept.
+# c_fos(u, w) computes FoS as ultimate strength ÷ working stress.
+# Concepts used: functions, return values.
 
-code:
+# code:
     
 def c_fos(u,w):
     return u/w
