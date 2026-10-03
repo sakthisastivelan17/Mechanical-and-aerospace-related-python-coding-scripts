@@ -17,6 +17,9 @@ A collection of beginner Python scripts built around aerospace and mechanical en
 
 ## Concepts covered ##
 OOP: classes, constructors, inheritance, super(), class methods
+
 Functions: parameters, return values, conditional logic
+
 File handling: writing, reading, and appending text files
+
 Data handling: loops, lists, max(), min(), averages
