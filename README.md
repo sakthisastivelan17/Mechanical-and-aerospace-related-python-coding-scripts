@@ -7,6 +7,9 @@ A collection of beginner Python scripts built around aerospace and mechanical en
 
 | Aerospace Engine purchase app Using class methods.py | @classmethod, class variables | Tracks jet engine purchase orders for Rolls-Royce, Boeing, and Airbus |
 
+<img width="818" height="666" alt="Image" src="https://github.com/user-attachments/assets/58dace47-f7a6-4b60-bc06-1fb501242d00" />
+
+
 | aircraft analysis in file handling-py.py | File I/O (write, read, append), loops, lists | Logs RPM, temperature, and fuel data for 5 engine tests, then reports the highest, lowest, and average of each. Also searches for an RPM value and appends a new test |
 
 | mechanical mark app in file handling-py.py | File I/O, loops, lists | Saves marks for 4 mechanical subjects to a file, then calculates total, average, and highest mark |
