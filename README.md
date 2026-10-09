@@ -7,6 +7,8 @@ A collection of beginner Python scripts built around aerospace and mechanical en
 
 | Aerospace Engine purchase app Using class methods.py | @classmethod, class variables | Tracks jet engine purchase orders for Rolls-Royce, Boeing, and Airbus |
 
+OUTPUT:
+
 <img width="818" height="666" alt="Image" src="https://github.com/user-attachments/assets/58dace47-f7a6-4b60-bc06-1fb501242d00" />
 
 
