@@ -24,4 +24,4 @@ File handling: writing, reading, and appending text files
 
 Data handling: loops, lists, max(), min(), averages
 
-<img width="818" height="666" alt="Image" src="https://github.com/user-attachments/assets/58dace47-f7a6-4b60-bc06-1fb501242d00" />
+
