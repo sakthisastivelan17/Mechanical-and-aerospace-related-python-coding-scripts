@@ -21,7 +21,7 @@ OUTPUT:
 | shutdown machine codes in function -py.py | Functions, conditionals | Safety check that compares temperature and pressure against limits and returns SAFE TO OPERATE or SHUTDOWN REQUIRED |
 
 ## Concepts covered ##
-OOP: classes, constructors, inheritance, super(), class methods
+OOP: classes, constructors, polymorphism, inheritance, super(), class methods
 
 Functions: parameters, return values, conditional logic
 
